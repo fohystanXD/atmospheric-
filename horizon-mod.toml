@@ -1,0 +1,6 @@
+id = "atmosphere_tweak"
+name = "Atmosphere Tweak"
+version = "0.1.0"
+api = "0.3"
+experimental = ["render"]
+capabilities = ["game-read", "render"]
